@@ -36,7 +36,8 @@ In this step, you will setup the MongoDB database and start the server applicati
 
 In this step, you will connect the React frontend application with the server that you just completed.
 
-1. Start the frontend application with `npm run dev`.
+1. Go to the `/frontend` directory and install the dependencies - `npm install`
+2. Once the dependencies are installed, start the frontend application by running `npm run dev` in the frontend directory
 2. Navigate to `/frontend/src/lib/api.ts` and complete the `searchCourses` and `getCourseById` functions (use the provided `fetchApi` function to call the server).
 3. Navigate to `/frontend/src/components/Root/Root.tsx` and complete the component.
 4. Navigate to `/frontend/src/components/Root/CourseModal/CourseModal.tsx` and complete the component.
