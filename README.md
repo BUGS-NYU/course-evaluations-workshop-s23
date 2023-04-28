@@ -1,5 +1,11 @@
 # Course Evaluations Project Workshop 2
 
+## Prerequisites
+
+Before anything, make sure that your system has the following dependencies installed:
+- `npm`
+- `node` (v14.18+ or v16+)
+
 ## Workshop Instructions
 
 In this workshop, you will learn to create your own free tier database in MongoDB Atlas Database, connect the backend to the Atlas, put some evaluations data in the database and connect the backend with the frontend application. At the end of the workshop, you should be able to search courses and look up evaluations information about them.
